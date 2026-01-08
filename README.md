@@ -54,13 +54,13 @@ The system applies several well-known software design patterns:
 ## 🖥 Screenshots
 
 ### GUI Overview
-![GUI Overview](images/gui-overview.png)
+![GUI Overview](images:gui-overview.png)
 
 ### Thread Activity & Queue Processing
-![Thread Activity](images/thread-activity.png)
+![Thread Activity](images:thread-activity.png)
 
 ### End-of-Day Report
-![Report](images/report-sample.png)
+![Report](images:report-sample.png)
 
 ---
 
