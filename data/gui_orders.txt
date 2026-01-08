@@ -1,0 +1,19 @@
+Order Number: 1, Customer ID: CUST1396, Timestamp: 1743869670160
+Club Sandwich,6.0
+Croissant,2.5
+Total Payable: $8.5
+--------------------------------------
+Order Number: 2, Customer ID: CUST1396, Timestamp: 1743869678079
+Grilled Cheese Sandwich,5.5
+Croissant,2.5
+Total Payable: $8.0
+--------------------------------------
+Order 1 | CUST5467 | Completed
+Order 2 | CUST5467 | Completed
+Order 3 | CUST5467 | Pending
+Order 1 | Pending
+Order 1 | Pending
+Order #1 | FOMAR08,HDCHO07
+Order #2 | DEMAC11,HDCAP04
+Order #3 | FOBBQ07
+Order #4 | CUST1796

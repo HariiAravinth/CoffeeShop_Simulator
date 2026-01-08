@@ -1,0 +1,39 @@
+
+HDLAT01,Latte,Hot drinks,4.5,true,Smooth espresso blended with steamed milk.
+HDESP02,Espresso,Hot drinks,3.0,true,Strong and bold shot of pure espresso.
+HDAME03,Americano,Hot drinks,3.5,true,Espresso diluted with hot water for a rich flavor.
+HDCAP04,Cappuccino,Hot drinks,4.0,true,Espresso with steamed and foamed milk.
+HDMO05,Mocha,Hot drinks,4.8,true,Espresso with chocolate and steamed milk.
+HDMAC06,Macchiato,Hot drinks,4.2,true,Espresso with a small amount of foamed milk.
+HDCHO07,Chai Latte,Hot drinks,4.0,true,Spiced tea mixed with steamed milk.
+HDVAN08,Vanilla Latte,Hot drinks,4.6,true,Latte infused with vanilla syrup.
+HDCAR09,Caramel Macchiato,Hot drinks,4.9,true,Macchiato sweetened with caramel.
+HDICE10,Iced Coffee,Hot drinks,3.8,true,Chilled brewed coffee served over ice.
+HDMAT11,Matcha Latte,Hot drinks,5.0,true,Japanese matcha green tea with milk.
+HDHAZ12,Hazelnut Cappuccino,Hot drinks,4.7,true,Cappuccino flavored with hazelnut syrup.
+
+FOCBS01,Club Sandwich,Food,6.0,true,Triple-layer sandwich with chicken, lettuce, and mayo.
+FOGCS02,Grilled Cheese Sandwich,Food,5.5,true,Classic toasted bread with melted cheese.
+FOCWP03,Chicken Wrap,Food,6.5,true,Grilled chicken, veggies, and sauce in a wrap.
+FOPWP04,Paneer Wrap,Food,6.0,true,Spiced paneer and veggies in a warm wrap.
+FOVBR05,Veggie Burger,Food,7.0,true,Grilled veggie patty with lettuce and tomato.
+FOCBR06,Chicken Burger,Food,7.5,true,Juicy chicken patty with lettuce and cheese.
+FOBBQ07,BBQ Chicken Pizza,Food,8.0,true,Thin crust pizza with BBQ chicken and onions.
+FOMAR08,Margherita Pizza,Food,7.5,true,Classic pizza with tomato sauce and mozzarella.
+FOTAC09,Beef Tacos,Food,6.8,true,Soft tacos filled with seasoned beef and salsa.
+FOFAL10,Falafel Bowl,Food,6.2,true,Falafel with quinoa, salad, and tahini dressing.
+FOSAL11,Chicken Caesar Salad,Food,6.5,true,Romaine lettuce, chicken, croutons, and Caesar dressing.
+FOQUS12,Quinoa Salad,Food,5.8,true,Nutrient-packed salad with quinoa and roasted vegetables.
+
+DEBRO01,Brownie,Dessert,3.5,true,Rich chocolate brownie with a fudgy center.
+DECRO02,Croissant,Dessert,2.5,true,Flaky and buttery French pastry.
+DECOO03,Cookie,Dessert,2.0,true,Classic soft-baked chocolate chip cookie.
+DEBMF04,Berry Muffin,Dessert,4.0,true,Soft muffin filled with fresh berries.
+DECHC05,Cheesecake,Dessert,5.0,true,Creamy cheesecake on a graham cracker crust.
+DECHC06,Chocolate Cake,Dessert,5.5,true,Moist chocolate cake with a rich ganache.
+DEICE07,Ice Cream Sundae,Dessert,4.5,true,Vanilla ice cream with toppings and syrup.
+DEPUD08,Sticky Toffee Pudding,Dessert,5.2,true,Warm date cake with toffee sauce.
+DETAR09,Lemon Tart,Dessert,3.8,true,Zesty lemon custard in a buttery crust.
+DEPAN10,Panacotta,Dessert,4.6,true,Silky smooth Italian dessert with berry sauce.
+DEMAC11,Macarons,Dessert,3.2,true,Colorful almond meringue cookies with filling.
+DEDON12,Donut,Dessert,2.2,true,Classic ring donut dusted with sugar.
